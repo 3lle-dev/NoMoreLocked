@@ -1,2 +1,2 @@
 # stealBrowserPasswords
-A tool to exfiltrate chromium based browsers passwords using Discord webhook
+A tool to get exfiltrate using Discord webhook
