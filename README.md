@@ -6,7 +6,7 @@ You can grab it and integrate it into your own ethical security research setups.
 
 ## 👀 Demo
 
-https://github.com/user-attachments/assets/ed20ab01-6ae8-4f68-ad78-192a709eb4fc
+https://github.com/user-attachments/assets/324d1b4c-f5bc-43b5-aaba-e63d66f75a28
 
 ## ❓ Why Discord?
 
