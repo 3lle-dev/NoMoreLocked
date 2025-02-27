@@ -2,11 +2,16 @@
 
 A simple tool to extract saved passwords from Chromium-based browsers and send them to a Discord channel. Built for **security research** and **educational purposes only**, not for shady stuff.
 
+## 👀 Demo
+
+https://github.com/user-attachments/assets/ed20ab01-6ae8-4f68-ad78-192a709eb4fc
+
 ## ❓ Why Discord?
 
 Honestly? Because it’s kinda cool. Sure, the Discord API has some limits, but it’s a convenient way to receive logs in real-time. Plus, Discord is rarely blocked in corporate environments... not that you should use it there! (Seriously, **don’t do anything dumb.**)
 
 This tool is just a small part of a bigger project, but you can grab it and integrate it into your own ethical security research setups.
+
 
 ## ⚙️ How does it work?
 
