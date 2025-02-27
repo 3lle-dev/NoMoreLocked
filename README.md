@@ -16,6 +16,8 @@ This tool is just a small part of a bigger project, but you can grab it and inte
 
 - Sends them to a specified Discord channel via Invoke-RestMethod.
 
+- The decryption of the passwords will be another module, with a simple python script you can do by your own.
+
 ⚠️ First time using PowerShell, so be gentle! 😉
 
 ## 🚨 Disclaimer
