@@ -1,6 +1,7 @@
 # 🛡️ stealBrowserPasswords
 
 A simple tool to extract saved passwords from Chromium-based browsers and send them to a Discord channel. Built for **security research** and **educational purposes only**, not for shady stuff.
+This is the first release of a bigger project 👾
 
 ## 👀 Demo
 
