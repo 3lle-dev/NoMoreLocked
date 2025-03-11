@@ -4,6 +4,9 @@ A simple tool to extract saved passwords from Chromium-based browsers and send t
 This is the first release of a bigger project 👾
 You can grab it and integrate it into your own projects.
 
+![finalThumbnail](https://github.com/user-attachments/assets/ca9cdd0d-720a-43ad-999a-168b8473a122)
+
+
 ## Demo👀
 
 https://youtu.be/1OHCafosyZs
