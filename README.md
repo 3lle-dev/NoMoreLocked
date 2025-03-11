@@ -16,9 +16,10 @@ Honestly? Because it’s kinda cool. Plus, Discord is rarely blocked in corporat
 
 - Extracts encrypted passwords from the browser’s SQLite database.
 
-- Decrypts them using built-in Windows APIs.
+- Dump them using a Discord webhook.
 
-- Sends them to a specified Discord channel via Invoke-RestMethod.
+- Decrypts them using a python module.
+
 
 ## Updates🤖
 
