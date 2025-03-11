@@ -105,8 +105,6 @@ def decrypt():
 
         print(f"\033[92mDecrypted passwords saved to {output_file}\033[0m")
         
-def socials():
-    print("\033[34m"  + "All my links: https://linktr.ee/lucasquintao.it" + "\033[0m")
 
 
 intro()
