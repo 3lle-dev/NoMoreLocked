@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/324d1b4c-f5bc-43b5-aaba-e63d66f75a28
 
 ## Why Discord❓
 
-Honestly? Because it’s kinda cool. Sure, the Discord API has some limits, but it’s a convenient way to receive logs in real-time. Plus, Discord is rarely blocked in corporate environments... not that you should use it there! (Seriously, **don’t do anything dumb.**)
+Honestly? Because it’s kinda cool. Plus, Discord is rarely blocked in corporate environments... not that you should use it there! (Seriously, **don’t do anything dumb.**)
 
 ## How does it work?⚙️
 
@@ -19,10 +19,6 @@ Honestly? Because it’s kinda cool. Sure, the Discord API has some limits, but 
 - Decrypts them using built-in Windows APIs.
 
 - Sends them to a specified Discord channel via Invoke-RestMethod.
-
-- The decryption of the passwords will be another module, with a simple python script you can do by your own.
-
-⚠️ First time using PowerShell, so be gentle! 😉
 
 ## Updates🤖
 
