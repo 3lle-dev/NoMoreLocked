@@ -4,9 +4,9 @@ A simple tool to extract saved passwords from Chromium-based browsers and send t
 This is the first release of a bigger project 👾
 You can grab it and integrate it into your own projects.
 
-## 👀 Demo
+## Demo👀
 
-https://github.com/user-attachments/assets/324d1b4c-f5bc-43b5-aaba-e63d66f75a28
+https://youtu.be/1OHCafosyZs
 
 ## Why Discord❓
 
